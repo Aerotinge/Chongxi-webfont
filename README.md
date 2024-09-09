@@ -9,7 +9,7 @@
 ## 嵌入專案
 若要在網頁上使用崇羲篆體，請將此段代碼複製到 HTML 的 <head> 標籤。 
 ```html
-<link href="https://cdn.githubraw.com/Aerotinge/Chongxi-webfont/main/chongxi-small-seal-fonts.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/gh/Aerotinge/Chongxi-webfont/chongxi-small-seal-fonts.css" rel="stylesheet">
 ```
 
 ## 著作權與授權條款
